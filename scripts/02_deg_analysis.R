@@ -1,7 +1,7 @@
 # ==============================================================================
 # Script Name: 02_deg_analysis.R
 # Description: Custom pseudobulk differential gene expression (DEG) analysis. 
-#              Due to small sample size (N=2 per group), an effect-size 
+#              Due to small sample size (N=2 per group), an effect-size v
 #              filtering strategy (|log2FC| > 0.5) is employed to uncover 
 #              biologically relevant transcriptional shifts in CD4+ and CD8+ cells.
 # ==============================================================================
