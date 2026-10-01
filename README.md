@@ -30,11 +30,4 @@ Our analysis identified a distinct two-step temporal immune trajectory localized
 
 ---
 
-## 📂 Repository Structure
 
-```text
-├── data/               # Input pseudobulk count matrices and metadata
-├── scripts/            # R scripts for DEG analysis and visualization
-├── results/            # Output heatmaps, DEG tables
-├── README.md           # Project documentation
-└── LICENSE             # Open-source license
