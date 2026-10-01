@@ -14,10 +14,10 @@ Our analysis identified a distinct two-step temporal immune trajectory localized
 
 1. Early-Stage Antioxidant Defense Breakdown (Early AD):
    * Genes: `HBB`, `HBA2` (Down-regulated in Early AD)
-   * Mechanism: Loss of non-erythroid hemoglobin-mediated protection against oxidative stress and hydrogen peroxide toxicity in circulating CD4+ and CD8+ T cells.
-2. *Late-Stage Ribosomal Stress Response (Late AD):
+  
+2. Late-Stage Ribosomal Stress Response (Late AD):
    * Genes: `RPS4Y1` (Up-regulated in Late AD)
-   * Mechanism: Activation of ribosomal stress pathways and protein translation control during advanced neurodegeneration.
+
 
 ---
 
