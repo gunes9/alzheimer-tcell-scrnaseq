@@ -1,4 +1,4 @@
-# alzheimer-tcell-scrnaseq
+# alzheimer-pbmc-tcell-scrnaseq
 
 # Single-Cell Pseudobulk DEG Analysis of T-Cell Subsets in Alzheimer's Disease (GSE168522)
 
